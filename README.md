@@ -39,9 +39,22 @@
 
 # B. Evaluasi dan Pertanyaan
 ### Tulis semua perintah - perintah SQL percobaan di atas beserta outputnya!
- 
+ #### - DDL (Data Definition Language)
+kumpulan perintah SQL yang dapat anda gunakan untuk mengelola, mengubah struktur datatype dari objek pada database seperti index, table, trigger, view dan lain sebagainya
+#### - DML (Data Manipulation Language)
+sekumpulan perintah yang di gunakan untuk melakukan pengelolaan database seperti membuat baru, menambah, menghapus dan menampilkan, perintah utamanya adalah seperti UPDATE, DELETE, INSERT, SELECT
+#### - DQL (Data Query Language)
+subbahasa yang bertanggung jawab untuk membaca, atau membuat kueri, data dari database. Dalam SQL, ini sesuai dengan SELECT
+#### - DCL (Data Control Language)
+subbahasa yang bertanggung jawab atas tugas administratif untuk mengontrol database itu sendiri, terutama memberikan dan mencabut izin database untuk pengguna
+#### - TCL (Transactional Control Language)
+yang berguna untuk mengurus berbagai transaksi dalam database
+
 ### Apa maksud dari int(11)?
+#### Maksud dari int (11) adalah nama tipe datanya adalah integer dan memiliki panjang 11 karakter.
 
 ### Ketika kita melihat struktur table dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya ?
+#### Maksud dari kata yes dan no pada kolom null itu adalah untuk menjelaskan bahwa pada record yang no harus di isi sedangkan yes bisa tidak di isi.
+
 
 
