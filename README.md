@@ -3,6 +3,7 @@
 <img width="960" alt="gambar1" src="https://user-images.githubusercontent.com/115552876/230716638-5bc4ab62-ac3e-4c7b-a186-4ee994e0da3e.png">
 
 #### 2. Buat sebuah tabel dengan nama biodata (nama,alamat) didalam database latihan 1!
+![gambar tugas pratikum 2](https://user-images.githubusercontent.com/115552876/231235105-8a31da82-bb95-453f-8115-dce7d36d920b.jpg)
 
 #### 3. Tambahkan sebuah kolom keterangan (vachar 15), sebagai kolom terakhir.
 <img width="960" alt="gambar 1 tugas praktikum nomer 3" src="https://user-images.githubusercontent.com/115552876/230716705-ef507e02-30b1-4775-9488-932fb724c926.png">
