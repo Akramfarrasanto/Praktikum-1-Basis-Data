@@ -38,3 +38,10 @@
 <img width="486" alt="gambar 11 tugas praktikum 13" src="https://user-images.githubusercontent.com/115552876/230716817-0a25b65d-445a-4539-8a69-e4759ab9eed0.png">
 
 # B. Evaluasi dan Pertanyaan
+### Tulis semua perintah - perintah SQL percobaan di atas beserta outputnya!
+ 
+### Apa maksud dari int(11)?
+
+### Ketika kita melihat struktur table dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya ?
+
+
